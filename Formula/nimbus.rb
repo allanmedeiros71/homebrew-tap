@@ -149,8 +149,8 @@ class Nimbus < Formula
   end
 
   resource "textual-image" do
-    url "https://files.pythonhosted.org/packages/09/19/fb4bca0ed5ff657f15b4d31cd3f415c62bc7c69cbd1ccb87457e025348bc/textual_image-0.14.1.tar.gz"
-    sha256 "502542955452ca6d67e4e0701021eed6bebbe2e1ccee8dfcb42e5083c9573eda"
+    url "https://files.pythonhosted.org/packages/3f/43/e94a80f76b6e613a44f77ec06abcac078c5c918e8824402fb353f490488a/textual_image-0.14.1-py3-none-any.whl"
+    sha256 "fbc72aa8009c138edfdd7f57f4cd264d7da102bcc9ddbc2527ebc3491f489941"
   end
 
   resource "typing-extensions" do
