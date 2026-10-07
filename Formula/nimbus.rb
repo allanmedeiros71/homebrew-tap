@@ -3,8 +3,8 @@ class Nimbus < Formula
 
   desc "Terminal music player that streams your Google Drive folders"
   homepage "https://github.com/allanmedeiros71/nimbus"
-  url "https://files.pythonhosted.org/packages/ba/db/4d10cab7ea80ff1600f9010138f794e6a38f0b7c50b726551d6c25bb6459/nimbus_player-0.3.1.tar.gz"
-  sha256 "9492c0bd1c8d21a3aa1f6a323b2abfff003420f6b1a9422eb6e1d90b2e516e92"
+  url "https://files.pythonhosted.org/packages/68/2d/5c132cae6464cfc13b5d576b04625ce89b27bf77cccedf5a54251ea380e2/nimbus_player-0.3.2.tar.gz"
+  sha256 "f8083447820d4981e95c7b43efe39fa21e37854cde3a8b0bf8cb295a61399b6f"
   license "MIT"
 
   depends_on "certifi"
