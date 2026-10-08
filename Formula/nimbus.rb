@@ -3,8 +3,8 @@ class Nimbus < Formula
 
   desc "Terminal music player that streams your Google Drive folders"
   homepage "https://github.com/allanmedeiros71/nimbus"
-  url "https://files.pythonhosted.org/packages/68/2d/5c132cae6464cfc13b5d576b04625ce89b27bf77cccedf5a54251ea380e2/nimbus_player-0.3.2.tar.gz"
-  sha256 "f8083447820d4981e95c7b43efe39fa21e37854cde3a8b0bf8cb295a61399b6f"
+  url "https://files.pythonhosted.org/packages/c2/d5/b6a71e4cdc82202af31637553cd73777b909792934585cb47b53775b6dbc/nimbus_player-0.3.3.tar.gz"
+  sha256 "62dce0fe1f011111fc4d9db01183dbcf21f55e0dcf0275545454671f52f01fea"
   license "MIT"
 
   depends_on "certifi"
@@ -29,8 +29,8 @@ class Nimbus < Formula
   end
 
   resource "google-auth" do
-    url "https://files.pythonhosted.org/packages/6e/a0/d9a866dbcf9de983d717a969744e50492d1c9c56b10207a9f23b3fab85d7/google_auth-2.60.0.tar.gz"
-    sha256 "34aa0283ef72c99cd410e35db4417211fa3e6aaa5399183227bbe3b82bd15192"
+    url "https://files.pythonhosted.org/packages/c7/0b/9788e913f2202da49068c27ce821eebcf96319240a89d7bb11f206d6471f/google_auth-2.61.0.tar.gz"
+    sha256 "37f0815967322e8c32b12bf422531e8b637cafdaae0acbb9141117cfe6a96f23"
   end
 
   resource "google-auth-httplib2" do
@@ -94,8 +94,8 @@ class Nimbus < Formula
   end
 
   resource "platformdirs" do
-    url "https://files.pythonhosted.org/packages/42/23/4a86fc741c38c5b69792a4ef954b281afa69bea9f083f881de1b0d23bc07/platformdirs-4.12.3.tar.gz"
-    sha256 "427fc0bb321ae0c5b037fa03238ca74820437be162e78b4848c4d4055b9b766c"
+    url "https://files.pythonhosted.org/packages/90/a1/d5f9002a70298c64a789779077d8dd90c10aa1f47fe40c86802df874f2a6/platformdirs-4.12.4.tar.gz"
+    sha256 "63743c02414e755de4e31b8f68125c1407495b86c5a006e203c01ff8b9924250"
   end
 
   resource "proto-plus" do
